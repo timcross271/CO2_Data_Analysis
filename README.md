@@ -6,29 +6,18 @@ health, education, energy and environmental factors. Ultimately my goal is to us
 to model this large dataset and look for possible complex relations between CO2 emission and other
 variables. 
 <br>
+## List of scripts
+
+`WB_Merge_Files.py` : Merge two seperate data files to one file for analysis.
 <br>
 
-```
-WB_Merge_Files.py
-```
-Merge two seperate data files to one file for analysis.
+`WB_Initial_Analysis.ipynb` : Initial study of the complete set of World Bank data, looking at the structure and content of the data.
 <br>
 
-```
-WB_Initial_Analysis.ipynb
-```
-Initial study of the complete set of World Bank data, looking at the structure and content of the data.
+`CO2_Data_Cleaning.ipynb` : Cleaned the data ready for further analysis. Removed variables with insufficient data, and countries with insufficient data. Also restructured the data using melt and pivot to allow for easier analysis. 
 <br>
 
-```
-CO2_Data_Cleaning.ipynb
-```
-Cleaned the data ready for further analysis. Removed variables with insufficient data, and countries with insufficient data. Also restructured the data using melt and pivot to allow for easier analysis. 
-
-```
-CO2_correlations.ipynb
-```
-
+`CO2_correlations.ipynb` : Analysis of correlations between the 3 initial variables CO2, GDP and Population.
 
 
 
