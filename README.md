@@ -24,11 +24,11 @@ Initial study of the complete set of World Bank data, looking at the structure a
 CO2_Data_Cleaning.ipynb
 ```
 Cleaned the data ready for further analysis. Removed variables with insufficient data, and countries with insufficient data. Also restructured the data using melt and pivot to allow for easier analysis. 
-
+<br>
 ```
 CO2_correlations.ipynb
 ```
-
+Analysis of correlations between the 3 initial variables CO2, GDP and Population.
 
 
 
