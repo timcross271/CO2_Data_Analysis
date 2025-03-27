@@ -6,7 +6,11 @@ health, education, energy and environmental factors. Ultimately my goal is to us
 to model this large dataset and look for possible complex relations between CO2 emission and other
 variables. 
 <br>
-## List of scripts
+### Initial report
+`CO2_Research_Note.pdf` : •	Initial research note covering exploratory data analysis carried out using Python Panadas and Microsoft Excel. This covers data cleaning, merging and formatting data, creation of visualisations, and analysis and discussion.
+<br>
+
+### List of scripts
 
 `WB_Merge_Files.py` : Merge two seperate data files to one file for analysis.
 <br>
