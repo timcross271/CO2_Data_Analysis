@@ -22,7 +22,3 @@ variables.
 <br>
 
 `CO2_correlations.ipynb` : Analysis of correlations between the 3 initial variables CO2, GDP and Population.
-
-`CO2_Research_Note.pdf` : 
-
-
