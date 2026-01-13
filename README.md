@@ -7,7 +7,7 @@ to model this large dataset and look for possible complex relations between CO2 
 variables. 
 <br>
 ### Initial report
-`CO2_Research_Note.pdf` : •	Initial research note covering exploratory data analysis carried out using Python Panadas and Microsoft Excel. This covers data cleaning, merging and formatting data, creation of visualisations, and analysis and discussion.
+`CO2_Research_Note.pdf` : Initial research note covering exploratory data analysis carried out using Python Panadas and Microsoft Excel. This covers data cleaning, merging and formatting data, creation of visualisations, and analysis and discussion.
 <br>
 
 ### List of scripts
