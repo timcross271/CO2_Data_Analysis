@@ -26,5 +26,6 @@ variables.
 
 ### Data
 
-Due to the size of the data, it is stored online, and should be downloaded before running the scripts.
-[Data](https://drive.google.com/drive/folders/14tcpo-dSg8R4hXBqF8zxwPLYdOb994gq?usp=sharing)
+Due to the size of the data files it is stored online, and should be downloaded before running the scripts.
+<br>
+[CO2 Data](https://drive.google.com/drive/folders/14tcpo-dSg8R4hXBqF8zxwPLYdOb994gq?usp=sharing)
