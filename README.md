@@ -21,4 +21,10 @@ variables.
 `CO2_Data_Cleaning.ipynb` : Cleaned the data ready for further analysis. Removed variables with insufficient data, and countries with insufficient data. Also restructured the data using melt and pivot to allow for easier analysis. 
 <br>
 
-`CO2_correlations.ipynb` : Analysis of correlations between the 3 initial variables CO2, GDP and Population.
+`CO2_Corr_ML.ipynb` : Analysis of correlations between the 3 initial variables CO2, GDP and Population. Running of inital ML Models on the data.
+<br>
+
+### Data
+
+Due to the size of the data, it is stored online, and should be downloaded before running the scripts.
+[Data](https://drive.google.com/drive/folders/14tcpo-dSg8R4hXBqF8zxwPLYdOb994gq?usp=sharing)
