@@ -10,7 +10,7 @@ variables.
 `CO2_Research_Note.pdf` : Initial research note covering exploratory data analysis carried out using Python Panadas and Microsoft Excel. This covers data cleaning, merging and formatting data, creation of visualisations, and analysis and discussion.
 <br>
 
-### List of scripts
+### Scripts
 
 `WB_Merge_Files.py` : Merge two seperate data files to one file for analysis.
 <br>
